@@ -1,0 +1,12 @@
+{
+  "name": "bulma-components",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue-router": "3.0.1",
+    "vue": "2.5.2",
+    "bulma": "0.6.1"
+  }
+}
